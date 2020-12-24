@@ -38,7 +38,7 @@ I **strongly** recommend working on these steps in this order, but you could do 
    1. The natural ordering for `Benefit` should be first by **descending numeric order of valuation**, then by **ascending numeric order of rarity**, and finally by **case-insensitive alphabetic order on the description**.
    2. It should pass all the tests in `BenefitComparableTests` if you have done so correctly.
 2. Create a `BenefitRarityProductComparator` class in the `main` package that implements `Comparator<Benefit>`. 
-   1. The comparator should **first** compare **ascending on the product of rarity and valuation** and then by **standard String compareTo (i.e. lexicographic ordering)** if that product is the same. 
+   1. The comparator should **first** compare **ascending on the product of rarity and valuation** and then by **standard String compareTo (i.e. lexicographic ordering) on the description** if that product is the same. 
    2. It should pass all the tests in `BenefitRarityProductComparatorTests` if you have done so correctly.
 3. Turn the `UsefulnessEvaluator` class provided into a **parameterized generic class**, using the documentation in `UsefulnessEvaluator.java` to guide you. **Also complete the 2 `//TODO` in the class.** 
    1. Your modified class should pass all the tests in `UsefulnessEvaluatorTests` if you have done these things correctly.
