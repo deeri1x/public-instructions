@@ -35,10 +35,10 @@ I **strongly** recommend working on these steps in this order, but you could do 
 >  Because of how the submission system works, if you have any classes that DON'T compile, the results of your submission won't show your tests behaving the same way as they do in Eclipse. So try really hard to get your classes to compile, even if you have to stub out some things!_
 
 1. Alter the `Benefit` class so that it implements `Comparable<Benefit>`. 
-   1. The natural ordering for `Benefit` should be first by **descending numeric order of valuation**, then by **ascending numeric order of rarity**, and finally by **case-insensitive alphabetic order**.
+   1. The natural ordering for `Benefit` should be first by **descending numeric order of valuation**, then by **ascending numeric order of rarity**, and finally by **case-insensitive alphabetic order on the description**.
    2. It should pass all the tests in `BenefitComparableTests` if you have done so correctly.
 2. Create a `BenefitRarityProductComparator` class in the `main` package that implements `Comparator<Benefit>`. 
-   1. The comparator should **first** compare by **the product of rarity and valuation** and then by **standard String compareTo (i.e. lexicographic ordering)** if that product is the same. 
+   1. The comparator should **first** compare **ascending on the product of rarity and valuation** and then by **standard String compareTo (i.e. lexicographic ordering)** if that product is the same. 
    2. It should pass all the tests in `BenefitRarityProductComparatorTests` if you have done so correctly.
 3. Turn the `UsefulnessEvaluator` class provided into a **parameterized generic class**, using the documentation in `UsefulnessEvaluator.java` to guide you. **Also complete the 2 `//TODO` in the class.** 
    1. Your modified class should pass all the tests in `UsefulnessEvaluatorTests` if you have done these things correctly.
