@@ -47,10 +47,15 @@ I **strongly** recommend working on these steps in this order, but you could do 
 ---
 
 Friend name? **The Dude**  
+
 Friend age? **47**  
+
 Benefit name? **a rug**  
+
 Benefit value? **1**  
+
 Benefit rarity? **0**  
+
 
 The Dude has these useful things:  
 humour (2:4)  
