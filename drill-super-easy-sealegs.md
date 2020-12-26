@@ -1,6 +1,6 @@
 # Drill - Super Easy Sealegs
 
-**(aka Hit the Ground Running)**
+_(aka Hit the Ground Running)_
 
 **Accept this project by going here: https://classroom.github.com/a/RrFdrGPh**
 
@@ -27,12 +27,15 @@ As for step 2, you should be able to get it done easily within **10 minutes**.
 
 1. Complete the single **//TODO**  in the `main` method in the `Main` class provided, using the documentation to guide you.
    1. If you have completed the task properly, you will pass all the tests in `MainTests`.
-   2. You might find it useful to run your main if your tests aren't passing. Here is an example of a correctly working main:
+   2. You might find it useful to run your main if your tests aren't passing. Here is an example of what you'll see in the console for a correctly working main:
+
+---
 
 ---
 
 2503
 
+---
 ---
 
 
