@@ -2,23 +2,22 @@
 
 **(aka Feeling Inconsoleable)**
 
+## Preamble
+
+A speedrun is meant to practice running through some basic skills as quickly as possible. Unlike non-speedrun drills, where you're typically asked to build a custom class and then "drive" it a bit, a speedrun drill is meant to be done solely in your `public static void main`.
+
 ## Time Required
 
 I used a stopwatch and recorded the times I required when doing this drill:
 
 1. getting the accepted GitHub repo contents into Eclipse: **00:50**
-2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **10:17**
-3. getting the completed project back up to the GitHub repo and confirming it's there: **00:36**
-4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:24**
+2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **05:16**
+3. getting the completed project back up to the GitHub repo and confirming it's there: **00:46**
+4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:18**
 
 For steps 1, 3, and 4, you should definitely aim to meet - or beat! - these times eventually. (For the first few drills, you will be understandably slower, as you're not used to "the process".)
 
-As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **30 minutes**) should definitely be within your grasp.
-
-## Preamble
-
-A speedrun is meant to practice running through some basic skills as quickly as possible. Unlike non-speedrun drills, where you're typically asked to build a custom class and then "drive" it a bit, a speedrun drill is meant to be done solely in your `public static void main`.
-
+As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **15 minutes**) should definitely be within your grasp.
 
 ## Instructions
 
