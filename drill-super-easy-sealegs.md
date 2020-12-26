@@ -2,7 +2,7 @@
 
 **(aka Hit the Ground Running)**
 
-**Accept this project by going here: **
+**Accept this project by going here: https://classroom.github.com/a/RrFdrGPh**
 
 ## Preamble
 
