@@ -14,10 +14,10 @@ Unless you were in last Fall's 1502 section, this is going to be new to you.
 
 I used a stopwatch and recorded the times I required when doing this drill:
 
-1. getting the accepted GitHub repo contents into Eclipse: **00:41**
-2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **10:17**
-3. getting the completed project back up to the GitHub repo and confirming it's there: **00:36**
-4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:24**
+1. getting the accepted GitHub repo contents into Eclipse: **00:59**
+2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **00:56**
+3. getting the completed project back up to the GitHub repo and confirming it's there: **00:47**
+4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:14**
 
 For steps 1, 3, and 4, you should definitely aim to meet - or beat! - these times eventually. (For the first few drills, you will be understandably slower, as you're not used to "the process".)
 
