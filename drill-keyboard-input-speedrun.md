@@ -1,6 +1,6 @@
 # Drill - Keyboard Input Speedrun
 
-**(aka Feeling Inconsoleable)**
+_(aka Feeling Inconsoleable)_
 
 **Accept this project by going here: https://classroom.github.com/a/S2z3JFLh**
 
