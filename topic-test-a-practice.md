@@ -1,5 +1,7 @@
 # Topic Test A - Practice
 
+**Accept this project by going here: https://classroom.github.com/a/ausKjeCt**
+
 **TIME ALLOWED:** To best simulate the real thing, you should try to finish this in 50 minutes; give yourself at most 10 minutes to submit it.  
 
 ## Preamble

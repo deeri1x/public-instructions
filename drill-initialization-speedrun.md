@@ -2,6 +2,8 @@
 
 _(aka Let There Be...Stuff )_
 
+**Accept this project by going here: https://classroom.github.com/a/rD8suKoi**
+
 ## Preamble
 
 A speedrun is meant to practice running through some basic skills as quickly as possible. Unlike non-speedrun drills, where you're typically asked to build a custom class and then "drive" it a bit, a speedrun drill is meant to be done solely in your `public static void main`.
