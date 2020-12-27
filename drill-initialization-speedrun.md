@@ -10,21 +10,21 @@ A speedrun is meant to practice running through some basic skills as quickly as 
 
 I used a stopwatch and recorded the times I required when doing this drill:
 
-1. getting the accepted GitHub repo contents into Eclipse: **00:41**
-2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **10:17**
-3. getting the completed project back up to the GitHub repo and confirming it's there: **00:36**
-4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:24**
+1. getting the accepted GitHub repo contents into Eclipse: **00:38**
+2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **05:53**
+3. getting the completed project back up to the GitHub repo and confirming it's there: **00:37**
+4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:13**
 
 For steps 1, 3, and 4, you should definitely aim to meet - or beat! - these times eventually. (For the first few drills, you will be understandably slower, as you're not used to "the process".)
 
-As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **30 minutes**) should definitely be within your grasp.
+As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **18 minutes**) should definitely be within your grasp.
 
 
 ## Instructions
 
 1. Complete the  **//TODO** entries in the `main` method in the `Main` class provided, using the documentation to guide you.
    1. If you have completed the task properly, you will pass all the tests in `MainTests`.
-   2. You might find it useful to run your main if your tests aren't passing. Here is an example of what you'll see in the console for a correctly working main:
+   2. You might find it useful to run your main if your tests aren't passing. Here is what you should see in the console for a correctly working main:
 
 ---
 ---
@@ -32,7 +32,7 @@ As for step 2, you shouldn't expect to meet the time - after all, I wrote the da
 Here are the 3 ints: [1, 2, 3]  
 Here are the 3 doubles: [3.14, -0.22, 1.7976931348623157E308]  
 Here are the 3 strings: [Wait...what?, Push the button, Frank., Game over, man - game over!]  
-Here are the 5 foods: [Okonomiyaki, null, null, Surströmming, Green Eggs and Ham]  
+Here are the 5 foods: [Okonomiyaki, null, null, Surstromming, Green Eggs and Ham]  
 Here are the 2 games: [Ticket to Ride (8), The Awful Green Things from Outer Space (7)]  
 
 ---
