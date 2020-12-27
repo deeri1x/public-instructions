@@ -1,6 +1,6 @@
 # Drill - Arrays Speedrun
 
-**(aka What the Cluck?!?)**
+_(aka What the Cluck?!?)_
 
 ## Preamble
 
