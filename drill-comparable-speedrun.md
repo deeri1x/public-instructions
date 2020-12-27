@@ -12,14 +12,14 @@ A speedrun is meant to practice running through some basic skills as quickly as 
 
 I used a stopwatch and recorded the times I required when doing this drill:
 
-1. getting the accepted GitHub repo contents into Eclipse: **00:50**
-2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **05:16**
-3. getting the completed project back up to the GitHub repo and confirming it's there: **00:46**
-4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:18**
+1. getting the accepted GitHub repo contents into Eclipse: **00:42**
+2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **10:23**
+3. getting the completed project back up to the GitHub repo and confirming it's there: **00:43**
+4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:19**
 
 For steps 1, 3, and 4, you should definitely aim to meet - or beat! - these times eventually. (For the first few drills, you will be understandably slower, as you're not used to "the process".)
 
-As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **15 minutes**) should definitely be within your grasp.
+As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **35 minutes**) should definitely be within your grasp.
 
 ## Instructions
 
@@ -83,6 +83,8 @@ The Excorcist (1973) is the same as The Excorcist (1973)
 
 > **Careful!**
 > - read the natural ordering information of each class carefully
+> - `Movie` uses the `Year` class...which in Java already implements Comparable...you should use this to your advantage!
+> - you should use the `Double.compare` method to handle implementing a proper compareTo that involves doubles
 > - when you initialize the arrays in `main`, make sure you make them the specified type....
 
 
