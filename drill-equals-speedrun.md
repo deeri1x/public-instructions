@@ -16,12 +16,12 @@ Hopefully, you have an answer for that, 'cause it's the kind of thing you need t
 
 JP's times:
 
-1. importing accepted GitHub repo into Eclipse: **00:38**
-2. coding passing solution: **05:53**
-3. punting solution back to GitHub repo: **00:37**
-4. submitting and verifying result: **01:13**
+1. importing accepted GitHub repo into Eclipse: **00:50**
+2. coding passing solution: **03:40**
+3. punting solution back to GitHub repo: **00:38**
+4. submitting and verifying result: **01:21**
 
-Your target time for step 2: **xx:xx**
+Your target time for step 2: **15 minutes**
 
 
 ## Instructions

@@ -19,7 +19,7 @@ I used a stopwatch and recorded the times I required when doing this drill:
 
 For steps 1, 3, and 4, you should definitely aim to meet - or beat! - these times eventually. (For the first few drills, you will be understandably slower, as you're not used to "the process".)
 
-As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 3x as much time (so about **35 minutes**) should definitely be within your grasp.
+As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 4x as much time (so about **42 minutes**) should definitely be within your grasp.
 
 ## Instructions
 
