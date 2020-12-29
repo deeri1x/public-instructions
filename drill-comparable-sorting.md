@@ -19,7 +19,7 @@ In a lot of video games, the player will have some sort of **inventory** - a col
 
 For example, here is the inventory of a couple of characters from a game of Divinity 2 that I'm playing with some friends:
 
-![week-01](images/divinity-inventory-shot.PNG)
+![divinity-inventory](images/divinity-inventory-shot.PNG)
 
 As you can see, you have the ability to **sort** the things you're carrying a variety of ways in this particular game.
 
@@ -31,12 +31,12 @@ We'll be using what we build here in a future drill, so make sure you get this d
 
 JP's times:
 
-1. importing accepted GitHub repo into Eclipse: **00:50**
-2. coding passing solution: **03:40**
-3. punting solution back to GitHub repo: **00:38**
-4. submitting and verifying result: **01:21**
+1. importing accepted GitHub repo into Eclipse: **00:48**
+2. coding passing solution: **12:13**
+3. punting solution back to GitHub repo: **00:40**
+4. submitting and verifying result: **01:50**
 
-Your target time for step 2: **15 minutes**
+Your target time for step 2: **50 minutes**
 
 
 ## Instructions
@@ -52,7 +52,7 @@ Your target time for step 2: **15 minutes**
 
     **If you have done (2) correctly, all tests in all `Inventory_blahblah_Tests` files will pass.**
     
-3. Complete the  **// TODO** entries in `Main`.
+3. Complete the  **// TODO** entries in `App`.
 
     **If you have done (3) correctly, all tests in `MainTests` will pass.**
     
