@@ -10,16 +10,15 @@ A speedrun is meant to practice running through some basic skills as quickly as 
 
 ## Time Required
 
-I used a stopwatch and recorded the times I required when doing this drill:
+JP's times:
 
-1. getting the accepted GitHub repo contents into Eclipse: **00:50**
-2. coding a solution to the point that it was passing all tests and had no Checkstyle/PMD issues: **05:16**
-3. getting the completed project back up to the GitHub repo and confirming it's there: **00:46**
-4. submitting the repo, waiting for that process to complete,  and looking at the result: **01:18**
+1. importing accepted GitHub repo into Eclipse: **00:50**
+2. coding passing solution: **05:16**
+3. punting solution back to GitHub repo: **00:46**
+4. submitting and verifying result: **01:18**
 
-For steps 1, 3, and 4, you should definitely aim to meet - or beat! - these times eventually. (For the first few drills, you will be understandably slower, as you're not used to "the process".)
+Your target time for step 2: **21 minutes**
 
-As for step 2, you shouldn't expect to meet the time - after all, I wrote the dang thing, so I'm nauseatingly familiar with what needs to be done. But taking 4x as much time (so about **21 minutes**) should definitely be within your grasp.
 
 ## Instructions
 
