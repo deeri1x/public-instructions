@@ -12,7 +12,7 @@ While natural orderings are all well and good, sometimes they can be confining. 
 
 JP's times:
 
-1. importing accepted GitHub repo into Eclipse: **00:42**
+1. importing accepted GitHub repo into Eclipse: **00:59**
 2. coding passing solution: **10:23**
 3. punting solution back to GitHub repo: **00:43**
 4. submitting and verifying result: **01:19**
@@ -25,7 +25,7 @@ Your target time for step 2: **42 minutes**
 1. Complete `YouTubeVideo`:
    1. make it implement Comparable, using the natural ordering mentioned in the class documentation block.
    2. complete the **// TODO**
-2. Complete the ** //TODO** entries in `Main`.
+2. Complete the **//TODO** entries in `Main`.
 
 When you have properly completed (1) and (2), all tests in `MainTests` should pass.
 
