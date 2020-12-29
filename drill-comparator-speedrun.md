@@ -13,11 +13,11 @@ While natural orderings are all well and good, sometimes they can be confining. 
 JP's times:
 
 1. importing accepted GitHub repo into Eclipse: **00:59**
-2. coding passing solution: **10:23**
-3. punting solution back to GitHub repo: **00:43**
-4. submitting and verifying result: **01:19**
+2. coding passing solution: **09:22**
+3. punting solution back to GitHub repo: **00:36**
+4. submitting and verifying result: **01:38**
 
-Your target time for step 2: **42 minutes**
+Your target time for step 2: **38 minutes**
 
 
 ## Instructions
@@ -61,10 +61,10 @@ Vids in ascending duration/reverse chronological creation date order:
 
 Vids in reverse alphabetic creator order:  
 1  => My Cat, My Killer[stubblyBeast] (likes: 0, cr: 2020-12-29, d: 02:23, v: 0, nc: 0)  
-2  => Salad Munching for Fun and Profit[crunchybunbuns] (likes: 0, cr: 2020-12-29, d: 10:00, v: 0, nc: 0)  
-3  => Fashion Coward - SNL[Saturday Night Live] (likes: 75,000, cr: 2019-04-13, d: 02:03, v: 3,920,363, nc: 3)  
-4  => Playing an RPG for the first time[Joel Haver] (likes: 233,000, cr: 2020-11-20, d: 03:08, v: 2,004,937, nc: 4)  
-5  => Nice Stub[Hans Hans] (likes: 2, cr: 2020-11-21, d: 03:08, v: 0, nc: 0)
+2  => Fashion Coward - SNL[Saturday Night Live] (likes: 75,000, cr: 2019-04-13, d: 02:03, v: 3,920,363, nc: 3)  
+3  => Playing an RPG for the first time[Joel Haver] (likes: 233,000, cr: 2020-11-20, d: 03:08, v: 2,004,937, nc: 4)  
+4  => Nice Stub[Hans Hans] (likes: 2, cr: 2020-11-21, d: 03:08, v: 0, nc: 0)  
+5  =>  Salad Munching for Fun and Profit[crunchybunbuns] (likes: 0, cr: 2020-12-29, d: 10:00, v: 0, nc: 0)
 
 Vids in descending number of comments/descending number of views/alphabetic title order:  
 1  => Playing an RPG for the first time[Joel Haver] (likes: 233,000, cr: 2020-11-20, d: 03:08, v: 2,004,937, nc: 4)  
