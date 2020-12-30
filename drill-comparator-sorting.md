@@ -2,7 +2,7 @@
 
 _(aka **Orderly** Pack Rat)_
 
-Estimated completion time: **x minutes**
+Estimated completion time: **50 minutes**
 
 **Accept this project by going here: https://classroom.github.com/a/lDmfAUPV**
 
@@ -28,6 +28,7 @@ In this drill, we're going to alter our Inventory so that it can sort items in w
 1. Import this drill's starting code as per normal.
 2. Copy your `Inventory.java` and `Item.java` files from your comparable sorting drill project into the `main` package folder of your new project.
 3. Rename the `getSorted` method in `Inventory` to `getSortedValue`.
+4. Close your comparable sorting drill in Eclipse - you don't want to accidentally work on _that_ code instead of _this_ drill's code!
 
 Now we're ready to begin. Here's what you need to do:
 
