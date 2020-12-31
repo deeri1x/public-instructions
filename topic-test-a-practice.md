@@ -2,15 +2,28 @@
 
 **Accept this project by going here: https://classroom.github.com/a/ausKjeCt**
 
-**TIME ALLOWED:** To best simulate the real thing, you should try to finish this in 50 minutes; give yourself at most 10 minutes to submit it.  
+
+## Time Required
+
+JP's times:
+
+1. importing accepted GitHub repo into Eclipse: **00:33**
+2. coding passing solution: **14:51**
+3. punting solution back to GitHub repo: **00:31**
+4. submitting and verifying result: **01:20**
+
+Assuming you take 4x as long (**60 minutes**) to complete (2) as I did, you should be able to complete this practice test from start to finish in about **65 minutes**
+
 
 ## Preamble
 
 This is a **practice** test, meant to see how well you've mastered the techniques you've practiced in non-timed drills.
 
-This practice test is a _little_ harder (IMO) than the real deal.
+This practice test is a _little_ harder (IMO) than the real deal, so will likely take you a little longer. This is on purpose.
 
-Try not to look at the solution video before giving this practice test your best effort. Trying and stumbling is infinitely more effective than passively watching.
+Try not to look at the solution video before giving this practice test your best effort. *Trying and stumbling is infinitely more effective than passively watching.*
+
+If you get stuck on something, make note of it and get better at it before the real test!
 
 ## Skills Assessed
 
@@ -28,6 +41,17 @@ You will show that you can, under time-pressure:
   - [ ] calling methods on an object, including ones from the public interfaces of classes you have not written
 - [ ] read unit tests written in JUnit and assertJ syntax
 - [ ] read Java documentation
+
+## Hints & Suggestions Before You Begin
+
+- log into GitHub
+- open up the folder where you keep your Eclipse projects in Windows Explorer / Mac Finder
+- have a Git Bash (Windows) / Terminal (Mac) open in the location where you keep your Eclipse projects
+- have Eclipse open and ready to roll
+- close any other open projects in Eclipse
+- stay focused on one task at a time; it is really easy to get intimidated and/or lost in code if you stop focusing!
+- get things compiling, even if you have to stub things out; it'll both increase your mark and also get your tests running...which is also important to your mark
+- even if you can't complete the `main` fully, try to do as much as you can (like getting input) to get some partial marks
 
 ## Instructions
 
@@ -78,18 +102,9 @@ a rug (1:0)
 humour (2:4)  
 a car (3:10)  
  
-
 ---
 
 Your completed `main` should also pass all tests in `MainTests`.
-
-## Hints & Suggestions
-
-- close any other projects in Eclipse before you begin
-- stay focused on one task at a time; it is really easy to get intimidated and/or lost in code if you stop focusing!
-- get things compiling, even if you have to stub things out; it'll both increase your mark and also get your tests running...which is also important to your mark
-- even if you can't complete the `main` fully, try to do as much as you can (like getting input) to get some partial marks
-
 
 ## Marks
 
