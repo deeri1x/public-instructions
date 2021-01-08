@@ -19,6 +19,12 @@ JP's times:
 
 Your target time for step 2: **21 minutes**
 
+## Skills Covered
+
+Show you can...
+
+- [ ] read a variety of input types (numeric, String) from the keyboard.
+- [ ] perform some basic String work you've done in 1501 and 1502.
 
 ## Instructions
 

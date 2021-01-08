@@ -21,6 +21,16 @@ OK, let's continue!
 In this drill, we're going to alter our Inventory so that it can sort items in ways other than their natural order...all through the magic of Comparators.
 
 
+## Skills Covered
+
+Show you can...
+
+- [ ] make a class implement more than one Java interface.
+- [ ] sort an ArrayList<T> via Comparator<T> using `Collections.sort`.
+- [ ] implement a Comparator in its own class.
+- [ ] implement a Comparator inline via an anonymous class.
+- [ ] implement a Comparator inline via a simple lambda.
+
 ## Instructions
 
 **Since we need to use your source code from the Comparable Sorting Drill, we have a few extra steps to do to get started:**

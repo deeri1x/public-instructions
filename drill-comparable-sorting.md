@@ -38,6 +38,20 @@ JP's times:
 
 Your target time for step 2: **50 minutes**
 
+## Skills Covered
+
+Show you can...
+
+- [ ] implement `equals` and `hashCode` with the IDE.
+- [ ] implement a copy constructor.
+- [ ] implement `Comparable<T>`.
+- [ ] perform common actions you did in 1501 and 1502, like coding a constructor and a getter.
+- [ ] initialize an array.
+- [ ] add things to an array.
+- [ ] iterate through the items in a List<T>.
+- [ ] create a List<T> from an array T[] using `List.of`.
+- [ ] copy an array using `Arrays.copyOf`.
+- [ ] sort an ArrayList using `Collections.sort`.
 
 ## Instructions
 

@@ -20,6 +20,19 @@ JP's times:
 Your target time for step 2: **42 minutes**
 
 
+## Skills Covered
+
+Show you can...
+
+- [ ] use the keyboard to get console input of different types.
+- [ ] create uninitialized arrays holding primitive types.
+- [ ] create uninitialized arrays holding reference types.
+- [ ] print out the contents of an array nicely using `Arrays.toString`.
+- [ ] new up objects.
+- [ ] place things in an array at a given index.
+- [ ] get something out of an array at a given index.
+- [ ] call a method you didn't write.
+
 ## Instructions
 
 1. Complete the **//TODO** entries in the `main` method in the `Main` class provided, using the documentation to guide you.

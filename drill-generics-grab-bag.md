@@ -10,6 +10,15 @@ Estimated completion time: **50 minutes**
 
 This one's kinda all over the place, hence the name. You'll be using generics, though - that's for sure. And chickens.
 
+## Skills Covered
+
+Show you can...
+
+- [ ] implement `equals` and `hashChode`.
+- [ ] make a class implement a single Java interface?
+- [ ] convert a class that doesn't use generics into one that does.
+- [ ] create objects from classes that use generics.
+- [ ] iterate through an array.
 
 ## Instructions
 

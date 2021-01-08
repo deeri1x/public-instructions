@@ -23,6 +23,13 @@ JP's times:
 
 Your target time for step 2: **15 minutes**
 
+## Skills Covered
+
+Show you can...
+
+- [ ] implement `equals` and `hashChode`.
+- [ ] read a variety of input types (numeric, String) from the keyboard.
+- [ ] read public methods you didn't write and choose the right one for a task.
 
 ## Instructions
 

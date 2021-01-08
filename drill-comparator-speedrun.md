@@ -19,15 +19,25 @@ JP's times:
 
 Your target time for step 2: **38 minutes**
 
+## Skills Covered
+
+Show you can...
+
+- [ ] make a class implement `Comparable<T>`.
+- [ ] implement a Comparator in its own class.
+- [ ] implement a Comparator inline via an anonymous class.
+- [ ] implement a Comparator inline via a simple lambda.
 
 ## Instructions
 
 1. Complete `YouTubeVideo`:
    1. make it implement Comparable, using the natural ordering mentioned in the class documentation block.
    2. complete the **// TODO**
-2. Complete the **//TODO** entries in `Main`.
+2. Create a class `AscDurationRevChronCreationDateComparator` that implements `Comparator<YouTubeVideo>` and which orders first by ascending duration and then by reverse chronology on creation date.
+3. Complete the **//TODO** entries in `Main`.
 
-When you have properly completed (1) and (2), all tests in `MainTests` should pass.
+When you have properly completed (1), (2), and (3) all tests in `MainTests` should pass.
+
 
 Here is an example run of a working solution (user input in **bold**):
 

@@ -19,6 +19,12 @@ JP's times:
 
 Your target time for step 2: **24 minutes**
 
+## Skills Covered
+
+Show you can...
+
+- [ ] initialize an array with shorthand/shortcut syntax?
+- [ ] use `List.of` to easily pass a Collection to the `ArrayList` constructor that takes a Collection.
 
 ## Instructions
 

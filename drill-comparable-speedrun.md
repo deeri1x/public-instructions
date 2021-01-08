@@ -19,6 +19,13 @@ JP's times:
 
 Your target time for step 2: **42 minutes**
 
+## Skills Covered
+
+Show you can...
+
+- [ ] implement Comparable<T>.
+- [ ] initialize an array with shorthand/shortcut syntax.
+- [ ] use `compareTo` in a conditional.
 
 ## Instructions
 
