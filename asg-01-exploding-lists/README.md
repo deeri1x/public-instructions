@@ -64,7 +64,7 @@ Here are my suggestions. These are not the only way to get this assignment done 
 
     > _I would recommend watching [this video](https://youtu.be/iSODqRFNe3I) [12:18] from the Watch It Played team - they consistently do stellar work in explaining game rules, and this video is no exception._
 3. Next, watch [this video](https://youtu.be/-bIqBK7WGuE) demoing a working version of this assignment. That way, you'll have a clear picture in your mind what your A-level destination is.
-4. Take a look at [the rubric](rubric.md) so you know how marks are assigned. Notice how the rubric forces you to progress through the different test levels, from D+ all the way up to A.
+4. Take a look at [the rubric](rubric.md) so you know how marks are assigned. Notice how the rubric forces you to progress through the different test levels, from F+ all the way up to A+.
 5. (Optional) If you're working on a team, you might want to start openly talking about such things as:
    1. what grade are you shooting for? Be honest and open with yourselves - not everyone's shooting for the A...and that's fine.
    2. how will you divvy up the work?
