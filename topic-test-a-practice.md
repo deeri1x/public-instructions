@@ -21,7 +21,7 @@ This is a **practice** test, meant to see how well you've mastered the technique
 
 This practice test is a _little_ harder (IMO) than the real deal, so will likely take you a little longer. This is on purpose.
 
-Try not to look at the solution video before giving this practice test your best effort. *Trying and stumbling is infinitely more effective than passively watching.*
+Try not to look at the [solution video](https://youtu.be/CIiVeAmFWbs) before giving this practice test your best effort. *Trying and stumbling is infinitely more effective than passively watching.*
 
 If you get stuck on something, make note of it and get better at it before the real test!
 
