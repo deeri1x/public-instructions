@@ -2,6 +2,8 @@
 
 _(aka Order Up!)_
 
+Estimated completion time: 80 minutes
+
 **Accept this project by going here:** https://classroom.github.com/a/0QrSzDkr
 
 ## Special Warning! (ooooh...scary!)
@@ -12,16 +14,6 @@ The intention of this drill is to get you to experience what the process of addi
 
 I want you to start getting a feel for solving a problem without a lot of `// TODOs` telling you what to do, step-by-step. (I worry that when you do too many things like this, you simple start following instructions blindly and not actually thinking about what you're trying to create. Being aware of the big picture is important.)
 
-## Time Required
-
-JP's times:
-
-1. importing accepted GitHub repo into Eclipse: **00:59**
-2. coding passing solution: **09:22**
-3. punting solution back to GitHub repo: **00:36**
-4. submitting and verifying result: **01:38**
-
-Your target time for step 2: **38 minutes**
 
 ## Skills Covered
 
@@ -74,3 +66,19 @@ Done now! Thanks!
 
 ---
 ---
+
+## Hints
+
+- we did a simple add in order algorithm in lecture 2; you can use it...but since we're dealing with a more complex situation (adding when there's 2 or more things already in the list), you'll have to do some looping
+- try to use some helper methods to make your code both readable **and** easy for you to develop. For example, here's my `add` method:
+
+    ```java
+    if (orderedThings.isEmpty()) {
+      orderedThings.add(thingBeingAdded);
+    } else {
+      addInOrder(thingBeingAdded);
+    }
+    size++;
+    ```
+    Notice how this reads pretty much like English. Of course, I now need to code up `addInOrder`...but that's OK
+- you will find inserting in order easier if you think about looking _one step ahead_ of your current position in the list
