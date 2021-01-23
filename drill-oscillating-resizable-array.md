@@ -2,9 +2,9 @@
 
 _(aka Back and Forth and Back and Forth and...)_
 
-Estimated completion time: xx minutes
+Estimated completion time: 80 minutes
 
-**Accept this project by going here:** 
+**Accept this project by going here:** https://classroom.github.com/a/AfZaTQXJ
 
 
 
