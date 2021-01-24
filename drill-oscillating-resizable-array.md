@@ -41,7 +41,7 @@ Show you can...
 ## Instructions
 
 1. Complete the `OscillatingResizableList<T>` class that represents a list that you can add things to. The behaviour of this class is described in the [Preamble](#preamble):
-   1. I've started things off for you, because dealing with generic arrays sucks and I didn't want you to suffer unduly.
+   1. I've started things off for you, because dealing with generic arrays sucks and I didn't want you to suffer unduly. Depending on your design, you may need to add more to the constructor. The `contents` method is complete, so don't touch it.
    2. if all the `OscillatingResizableList` tests all pass, you can consider your `OscillatingResizableList` working okay!
 2. Complete the `App.java` run method so that when you run `Main.java`, the program behaves as expected by the `MainTests`.  
      1. I've added a useful method in `App.java` that removes some of the drudgery.
