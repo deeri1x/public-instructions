@@ -64,7 +64,3 @@ Found me the biggest in the ExceptionThrowingList! It's: 383
 ---
 ---
 
-## Hints
-
-- don't just jump into this one...you're gonna wanna think about your plan of attack a bit here - draw some pictures! (It sure helped me.)
-- don't resize the backing array until someone tries to add something and there's no room...resizing is an expensive operation, so we don't want to do it unless absolutely necessary!
