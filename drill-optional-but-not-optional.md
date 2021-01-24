@@ -2,7 +2,7 @@
 
 _(aka That's Not An Option)_
 
-Estimated completion time: 20 minutes
+Estimated completion time: 40 minutes
 
 **Accept this project by going here:** https://classroom.github.com/a/bdgnaKKJ
 
@@ -14,7 +14,7 @@ Optionals came out with Java 8 and they haven't gotten enough lovin' from our Pr
 
 (Plus, they're on assignment one, so a little bit of practice seems useful.)
 
-This is a short drill - honest!
+There's not an awful lot of code to do here, but if you didn't watch the screencast on Optional, it'll take a while. Ditto if you're rusty on Exceptions.
 
 ## Special Warning
 
@@ -38,12 +38,14 @@ Show you can...
 3. Complete the `App.java` run method so that when you run `Main.java`, the program behaves as expected by the `MainTests`.  
 
 
+## Example Runs
+
 Here is an example run of a working solution when the user just hits Enter right away:
 
 > Enter in a list of zero or more ints, separated by whitespace: 
 >  
 > Didn't find a darn thing in the OptionalReturnList. Sad now.  
-> Didn't find a darn thing in the ExceptionThrowingList and got this > dang exception: You can't findBiggest when it's empty.
+> Didn't find a darn thing in the ExceptionThrowingList and got this dang exception: You can't findBiggest when it's empty.
 
 
 Here is an example run of a working solution (user input in **bold**):
