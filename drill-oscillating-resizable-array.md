@@ -47,32 +47,30 @@ Show you can...
      1. I've added a useful method in `App.java` that removes some of the drudgery.
 
 
+## Example Run
+
 Here is an example run of a working solution (user input in **bold**):
 
----
----
 
-Hi! I'm the Oscillating Resizable List app!  
+> Hi! I'm the Oscillating Resizable List app!  
 Please enter one integer per line.  
 I will add that number to the list and then show you its contents.  
+> 
+> I will stop when you enter an empty line.  
+> 
+> Ready? Start entering numbers!  
+> \> **-12**  
+> contents: [null, null, null, -12, null, null, null]
+> 
+> \> **45**  
+> contents: [null, null, null, -12, 45, null, null]
+> 
+> \> **999**  
+> contents: [null, null, 999, -12, 45, null, null]
+> 
+> \>   
+> Done now! Thanks!
 
-I will stop when you enter an empty line.  
-
-Ready? Start entering numbers!  
-\> **-12**  
-contents: [null, null, null, -12, null, null, null]
-
-\> **45**  
-contents: [null, null, null, -12, 45, null, null]
-
-\> **999**  
-contents: [null, null, 999, -12, 45, null, null]
-
-\>   
-Done now! Thanks!
-
----
----
 
 ## Hints
 
