@@ -40,27 +40,18 @@ Show you can...
 
 Here is an example run of a working solution when the user just hits Enter right away:
 
----
----
+> Enter in a list of zero or more ints, separated by whitespace: 
+>  
+> Didn't find a darn thing in the OptionalReturnList. Sad now.  
+> Didn't find a darn thing in the ExceptionThrowingList and got this > dang exception: You can't findBiggest when it's empty.
 
-Enter in a list of zero or more ints, separated by whitespace: 
-
-Didn't find a darn thing in the OptionalReturnList. Sad now.  
-Didn't find a darn thing in the ExceptionThrowingList and got this dang exception: You can't findBiggest when it's empty.
-
----
----
 
 Here is an example run of a working solution (user input in **bold**):
 
----
----
+> Enter in a list of zero or more ints, separated by whitespace: **19 54 383**  
+>
+> Found me the biggest in the OptionalReturnList! It's: 383  
+> Found me the biggest in the ExceptionThrowingList! It's: 383
 
-Enter in a list of zero or more ints, separated by whitespace: **19 54 383**
 
-Found me the biggest in the OptionalReturnList! It's: 383  
-Found me the biggest in the ExceptionThrowingList! It's: 383
-
----
----
 
