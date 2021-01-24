@@ -17,7 +17,7 @@ You're going to make an array-backed class called `OscillatingResizableList` tha
 - the class will be generic
 - the class must use an array under the hood (aka the backing array)
 - the starting size of the backing array is 7
-- when things are added, they happen in a special way: the first element goes in the **middle** of the backing array...and then subsequent additions happen at the ends of the current group of filled array elements, alternating right to left to right, etc.
+- when things are added, this happens in a special way: the first element goes in the **middle** of the backing array...and then subsequent additions happen at the **ends** of the current group of filled array elements, alternating right to left to right, etc.
 - if an attempt to add to a full backing array happens, it resizes by 6 and the current contents of the backing array are moved to the middle of the new backing array.
 - confused? A picture will help, I reckon. Here's what would would happen to the backing array if we created a new `OscillatingResizableList<Integer>` and added the numbers 1 through 8 to it:
 
