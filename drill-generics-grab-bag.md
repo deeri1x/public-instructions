@@ -4,7 +4,7 @@ _(aka Should You **Really** Stick Your Hand In There?)_
 
 Estimated completion time: **50 minutes**
 
-**Accept this project by going here: https://classroom.github.com/a/uvIrNcRu**
+**Accept this project by going here:** https://classroom.github.com/a/Mb1Ondcr
 
 ## Preamble
 
