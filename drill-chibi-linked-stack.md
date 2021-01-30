@@ -40,7 +40,7 @@ Show you can...
 
 2. Create a `ChibiLinkedStack<T>` class that implements the given `PlainOldStack` interface. The behaviour of `ChibiLinkedStack<T>` is described in the [Preamble](#preamble):
    1. Use your `TwoEndedSll` class to get this job done - you should be pleasantly surprised at how quickly this goes, because `TwoEndedSll` does all the heavy lifting!
-   2. if all the `ChibiLinkedStack` tests are passing, you can consider your `OscillatingResizableList` working okay!
+   2. if all the `ChibiLinkedStack` tests are passing, you can consider your `ChibiLinkedStack` to be working okay!
 3. Complete the `App.java` run method so that when you run `Main.java`, the program behaves as expected by the `MainTests`.  
      1. I've added some useful methods in `App.java` to make your life easier.
 
@@ -110,4 +110,4 @@ Done now! Thanks!
 
 ## Hints
 
-- I'm serious when I say that this should be quick...you only need 5 methods (including the constructor), 2 of those are one-liners, and the other 3 are very simiple if/else statements! If you are writing a lot of code, reach out to JP.
+- I'm serious when I say that this should be quick...you only need 5 methods (including the constructor) - 2 of those are one-liners, and the other 3 are very simple if/else statements! If you are writing a lot of code, reach out to JP.
