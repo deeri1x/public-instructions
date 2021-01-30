@@ -35,7 +35,7 @@ Show you can...
 ## Instructions
 
 1. Create a `TwoEndedSll<T>` class in the `main` package. This class represents a list that you can add things to and its behaviour is described in the [Preamble](#preamble):
-   1. if all the `TwoEndedSll` tests all pass, consider that puppy done!
+   1. if all the `TwoEndedSll` tests pass, consider that puppy done!
 2. Complete the `App.java` run method so that when you run `Main.java`, the program behaves as expected by the `MainTests`.  
      1. I've added a useful method in `App.java` that removes some of the drudgery.
 
