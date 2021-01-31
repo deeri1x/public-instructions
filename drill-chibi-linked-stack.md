@@ -2,8 +2,6 @@
 
 _(aka Tiny Tiered Terror)_
 
-Estimated completion time: ?? minutes
-
 **Accept this project by going here:** https://classroom.github.com/a/OQa2459U
 
 
@@ -20,7 +18,8 @@ Usually we reach for a linked structure because we want the flexibility of addin
 Here are some details about the class - `ChibiLinkedStack` - that you will be making.
 
 - it will be generic...so you can toss whatever reference type you want in it. But...
-- ...it can only hold 3 things; if you try and push something into ole chibi-chan when it's full, it will throw an unchecked `FullStackException`. You'll have to make this custom exception class by yourself: here's a reasonable how-to: https://stackabuse.com/how-to-make-custom-exceptions-in-java/ (make sure you look at the **Custom Unchecked Exception** section!)
+- ...it can only hold 3 things; if you try and push something into ole chibi-chan when it's full, it will throw an unchecked `FullStackException`. You'll have to make this custom exception class by yourself: here's a reasonable how-to: https://stackabuse.com/how-to-make-custom-exceptions-in-java/#customuncheckedexception 
+  - Make sure you use the **Custom Unchecked Exception** section. Not the Checked stuff.
 - it should use your `TwoEndedSll` under the hood (as its sole instance variable) 
 
 
