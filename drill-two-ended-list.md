@@ -2,9 +2,8 @@
 
 _(aka You'll Never See the End of It...)_
 
-Estimated completion time: ?? minutes
 
-**Accept this project by going here:** ???
+**Accept this project by going here:** https://classroom.github.com/a/0SUAT9YE
 
 ## Caution!
 
@@ -20,9 +19,9 @@ Here are the details:
 - you can both **add** and **remove** from this list - but only at its **head** or **tail** - no adding/removing middle bits! (this is a blessing, of course)
 - if you attempt to remove from an empty list, it'll throw a `NoSuchElementException`.
 - even though we can add/remove from either end of this list, when we get its contents, they are always in order from head to tail.
-- you _should_ make your Node class a static member class (so it's declared `private static Node<T>` and inside your `TwoEndedSll` class). Of course, I realize I can't force you to do so. But still...practice good practice, folks!
+- you _should_ make your Node class - every linked list class needs a li'l Node, you know - a static member class (so it's declared `private static Node<T>` and inside your `TwoEndedSll` class). Of course, I realize I can't force you to do so. But still...practice good practice, folks!
 
-Of the four drills in this checkpoint, this will easily take the longest to complete. But there's an upside: the list you create in this drill makes the other three drills a snap, so the time you spend here will pay off.
+Of the three drills in this checkpoint, this will easily take the longest to complete. But there's an upside: the list you create in this drill makes the other two drills a snap, so the time you spend here will pay off.
 
 
 ## Skills Covered
@@ -34,7 +33,7 @@ Show you can...
 
 ## Instructions
 
-1. Create a `TwoEndedSll<T>` class in the `main` package. This class represents a list that you can add things to and its behaviour is described in the [Preamble](#preamble):
+1. Create a `TwoEndedSll<T>` class in the `main` package. This class represents a list that you modify and its behaviour is described in the [Preamble](#preamble):
    1. if all the `TwoEndedSll` tests pass, consider that puppy done!
 2. Complete the `App.java` run method so that when you run `Main.java`, the program behaves as expected by the `MainTests`.  
      1. I've added a useful method in `App.java` that removes some of the drudgery.
