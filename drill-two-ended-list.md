@@ -7,7 +7,7 @@ _(aka You'll Never See the End of It...)_
 
 ## Caution!
 
-This drill's class is used in the other 3 drills in this checkpoint, so you must complete this one first!
+This drill's class is used in the other 2 drills in this checkpoint, so you must complete this one first!
 
 ## Preamble
 

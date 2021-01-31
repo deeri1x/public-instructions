@@ -4,7 +4,9 @@ _(aka Tiny Tiered Terror)_
 
 **Accept this project by going here:** https://classroom.github.com/a/OQa2459U
 
+## Caution!
 
+This drill requires that you've completed the [Two-Ended List drill](https://github.com/MRU-CSIS-2503-202101-001/public-instructions/blob/main/drill-two-ended-list.md) first, so don't start this drill unless you've finished that one!
 
 ## Preamble
 
@@ -20,6 +22,7 @@ Here are some details about the class - `ChibiLinkedStack` - that you will be ma
 - it will be generic...so you can toss whatever reference type you want in it. But...
 - ...it can only hold 3 things; if you try and push something into ole chibi-chan when it's full, it will throw an unchecked `FullStackException`. You'll have to make this custom exception class by yourself: here's a reasonable how-to: https://stackabuse.com/how-to-make-custom-exceptions-in-java/#customuncheckedexception 
   - Make sure you use the **Custom Unchecked Exception** section. Not the Checked stuff.
+- if you try to pop or top from chibi when it's empty, it will throw a `NoSuchElementException`.
 - it should use your `TwoEndedSll` under the hood (as its sole instance variable) 
 
 
@@ -35,7 +38,7 @@ Show you can...
 1. Copy your **working** `TwoEndedSll.java` file from that drill to the `main` package of this drill's Eclipse project.
 
     > _Note from JP:_  
-    > _You can do this easily in Eclipse by dragging the `TwoEndedSll.java` file from your `drill-two-ended-sll` project to the `main` package in `drill-chibi-linked-stack` **while holding down the ctrl key**._
+    > _You can do this easily in Eclipse by dragging the `TwoEndedSll.java` file from your `drill-two-ended-sll` project to the `main` package in your `drill-chibi-linked-stack` project **while holding down the ctrl key**. If you forget to hold down the ctrl key, you'll move the file instead of copy it, which will make you sad._
 
 2. Create a `ChibiLinkedStack<T>` class that implements the given `PlainOldStack` interface. The behaviour of `ChibiLinkedStack<T>` is described in the [Preamble](#preamble):
    1. Use your `TwoEndedSll` class to get this job done - you should be pleasantly surprised at how quickly this goes, because `TwoEndedSll` does all the heavy lifting!
