@@ -19,7 +19,7 @@ Here are the details:
 - you can both **add** and **remove** from this list - but only at its **head** or **tail** - no adding/removing middle bits! (this is a blessing, of course)
 - if you attempt to remove from an empty list, it'll throw a `NoSuchElementException`.
 - even though we can add/remove from either end of this list, when we get its contents, they are always in order from head to tail.
-- you _should_ make your Node class - every linked list class needs a li'l Node, you know - a static member class (so it's declared `private static Node<T>` and inside your `TwoEndedSll` class). Of course, I realize I can't force you to do so. But still...practice good practice, folks!
+- you _should_ make your Node class a static member class. What does that mean? It should be located _inside_ your `TwoEndedSll` class and declared as `private static Node<T>`. Of course, I realize I can't force you to do so. But still...practice good practice, folks!
 
 Of the three drills in this checkpoint, this will easily take the longest to complete. But there's an upside: the list you create in this drill makes the other two drills a snap, so the time you spend here will pay off.
 
