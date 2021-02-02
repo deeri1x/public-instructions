@@ -8,3 +8,5 @@ There's one class to complete here:
 
 > _**JP says:**_  
 > _Feel free to use code from the online textbook (you remember that from the course outline) here to make this easy for you. If you **do** use code from there - or anywhere else online - please just reference it in your class documentation. Failure to do so means you're being naughty, which will have repercussions._
+>  
+> The starting code for the 'OscillatingResizableList<T>' from the `oscillating-resizable-array` drill would be useful as your starting code for the `ArrayBackedStack`, because it shows you how to initialize the generic backing array.
