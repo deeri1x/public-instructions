@@ -73,6 +73,7 @@ Done now! Thanks!
 
 ## Hints
 
+- **there's no way we can add things in order if we can't compare them**...so what does this mean about the T that is used by our AlwaysSortedList?....
 - we did a simple add in order algorithm in lecture 2; you can use it...but since we're dealing with a more complex situation (adding when there's 2 or more things already in the list), you'll have to do some looping
 - try to use some helper methods to make your code both readable **and** easy for you to develop. For example, here's my `add` method:
 
