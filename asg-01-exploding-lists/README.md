@@ -10,6 +10,10 @@
 
 **Submissions:** just like with drills
 
+## BUGS/CHANGES
+
+You can find info of current bugs (with fixes) and other changes at the [bug/change list](bug-change-list.md)
+
 ## Preamble
 
 I play the game [Potion Explosion](https://www.horribleguild.com/potion-explosion/) a lot:
