@@ -8,4 +8,4 @@ You have the following things to accomplish to clear this level:
 - Make all the tests in `test.d.level` package pass. To do this you will need to:
   - ~~complete the `displayMenu` method in `App.java` so that it behaves as stated in its documentation. There are just a few printlns and a conditional here; the only slightly tricky thing here is figuring out how to determine whether you should display the undo option or not....~~
     - [UPDATE Feb 05]: don't worry about the `App_Tests.java` test any more - in fact, delete it! **You will have to eventually complete the `displayMenu` method - but that can wait until the A level.
-  - complete the `StartupEngine` class so that it behaves as stated in its documentation and passes its tests.
+  - complete the `StartupEngine` class so that it behaves as stated in its documentation and passes its tests. 
