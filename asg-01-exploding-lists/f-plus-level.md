@@ -76,6 +76,7 @@ You should have 4 errors left by this point, 2 in `CurrentGameState` and 2 in `A
     
 2. `App`
    1. the `displayMenu` issue is an easy fix
+      1. [UPDATE: 2021-02-05] I'm fine with folks commenting out any errors **happening in `App.java`**.
    2. the last error should be easy as well
 
 ## step 4 (optional) - get rid of as many Warnings as you can
