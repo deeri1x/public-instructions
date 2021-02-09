@@ -21,7 +21,7 @@ Here are some details about the class - `MyHashtable` - that you will be making:
   - a `Reportable` interface, which gives you some additional methods which let the unit tests dig under the hood of your class a bit
 - it will be generic...so you can toss whatever Key/Value pairs you want in it.
 - it **does** have a fixed capacity (which is pretty weird for hash tables, but the task was already big enough, so we'll leave resizing out). If you try to add something into a full MyHashtable, it'll throw a custom unchecked exception called `FullHashtableException`.
-- it uses lazy deletion to implement removals 
+- it uses [lazy deletion](https://en.wikipedia.org/wiki/Lazy_deletion) to implement removals 
 - I'd like to see you use an array under the hood to implement this, please. No ArrayLists.
 
 
@@ -55,17 +55,17 @@ The value for the key will be a list of palindromes with that many letters.
 > When you enter an empty line, I will then ask you to enter a number.  
 I will then show you a list of palindromes that have that number of letters.  
 Ready? Start entering palindromes!  
-palindrome? aha  
-palindrome? kook  
-palindrome? rotor  
-palindrome? redder  
-palindrome? racecar  
-palindrome? rotator  
-palindrome? level  
-palindrome? noon  
-palindrome? naan  
+palindrome? **aha**  
+palindrome? **kook**  
+palindrome? **rotor**  
+palindrome? **redder**  
+palindrome? **racecar**  
+palindrome? **rotator**  
+palindrome? **level**  
+palindrome? **noon**  
+palindrome? **naan**  
 palindrome?   
-num letters? 4  
+num letters? **4**  
 Here are the palindromes I have with 4 letters:  
 \- kook  
 \- noon  
@@ -77,4 +77,5 @@ Here are the palindromes I have with 4 letters:
 
 - if you make a nice static member class for your array elements, this assignment becomes _soooo_ much easier to deal with. My member class had fields to hold whether the element was empty or deleted (plus of course fields for the key and value!). Methods that help you figure whether a given element is available to be used for an insert, and whether a given element matches a given key, are pretty useful here, too IMO.
   - don't forget a nice `toString` here as well - it'll make the `contentList` method a lot less messy.
-- instead of having an array with a bunch of nulls, consider instead populating it with a bunch of **empty** elements - that way you don't have to deal with the usual crap that nulls bring  
+- instead of having an array with a bunch of nulls, consider instead populating it with a bunch of **empty** elements - that way you don't have to deal with the usual crap that nulls bring 
+  - _counterargument: by doing this, you increase the amount of space your hash table requires by quite a bit! As with all things, there are costs and tradeoffs!_
