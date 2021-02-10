@@ -36,7 +36,8 @@ Show you can...
 ## Instructions
 
 1. Create a `MyHashtable<K, V>` class that implements the given `PlainOldMap<K, V>`  **and** `Reportable` interfaces. The behaviour of `MyHashtable<K, V>` is described in the [Preamble](#preamble) and the interfaces are documented to help you figure things out there:
-   1. if all the `MyHashtable` tests are passing, you can consider your `MyHashtable` to be working okay!
+   1. **there are two methods in the `Reportable` interface - `capacity` and `backingArrayContents` - that are marked as `default`. This means they have a default implementation...which means that you don't have to code them up! Wild!**
+   2. if all the `MyHashtable` tests are passing, you can consider your `MyHashtable` to be working okay!
 2. Complete the `App.java` run method so that when you run `Main.java`, the program behaves as expected by the `MainTests`.  
      1. I've added some useful methods in `App.java` to make your life easier.
 
