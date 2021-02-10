@@ -75,6 +75,7 @@ Here are the palindromes I have with 4 letters:
 
 ## Hints
 
+- make sure you understand how open addressing works for collisions...draw a few pictures out and try a couple of scenarios out on paper. It'll help give you direction when you start coding.
 - if you make a nice static member class for your array elements, this assignment becomes _soooo_ much easier to deal with. My member class had fields to hold whether the element was empty or deleted (plus of course fields for the key and value!). Methods that help you figure whether a given element is available to be used for an insert, and whether a given element matches a given key, are pretty useful here, too IMO.
   - don't forget a nice `toString` here as well - it'll make the `contentList` method a lot less messy.
 - instead of having an array with a bunch of nulls, consider instead populating it with a bunch of **empty** elements - that way you don't have to deal with the usual crap that nulls bring 
