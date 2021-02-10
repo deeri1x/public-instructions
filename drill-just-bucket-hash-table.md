@@ -77,5 +77,4 @@ Here are the palindromes I have with 4 letters:
 - IMO, it's worth your while to make two static member classes for your array elements:
   - the first is a class that holds the key/value pairs themselves - it can be very simple. A well-chosen `toString` would do wonders here.
   - the second is a class to represent a bucket: remember that a bucket holds a list of some sort, with each element of the list being a key/value pair object. You can use anything that implements List here, from Java's `LinkedList` or `ArrayList` classes or even your simple linked list from last drill.
-  - don't forget a nice `toString` here as well - it'll make the `contentList` method a lot less messy.
 - instead of having an array with a bunch of nulls, consider instead populating it with a bunch of **empty** elements - that way you don't have to deal with the usual crap that nulls bring  
