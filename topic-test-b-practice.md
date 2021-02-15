@@ -39,7 +39,6 @@ If you get stuck on something, make note of it and get better at it before the r
 
 You will show that you can, under time-pressure:
 
-- [ ] solve a problem using a Stack.
 - [ ] solve a problem using a Queue.
 - [ ] use a Comparator to solve a problem.
 - [ ] implement a Comparator.
