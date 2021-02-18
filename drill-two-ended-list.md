@@ -9,6 +9,10 @@ _(aka You'll Never See the End of It...)_
 
 This drill's class is used in the other 2 drills in this checkpoint, so you must complete this one first!
 
+## Warning!!
+
+This has to be a **real linked list** - you can't just use another thing (like an array or ArrayList) under the hood and _pretend_ to be a linked list. It's gotta be the Real Deal, folks. I'll be checking!
+
 ## Preamble
 
 You're going to be making a `TwoEndedSll` class, representing a singly-linked list that has some specific properties.
