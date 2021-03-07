@@ -87,6 +87,6 @@ Here are my suggestions. These are not the only way to get this assignment done 
 
 ## Additional Perks Availalbe
 
-If you're in need of some Perks, there are [opportunities in this assignment](perk-opportunities.md),just like there were in the last one.
+If you're in need of some Perks, there are [opportunities in this assignment](perk-opportunities.md), just like there were in the last one.
 
 
