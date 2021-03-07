@@ -85,6 +85,8 @@ Here are my suggestions. These are not the only way to get this assignment done 
 
 **YOU SHOULD PUSH YOUR WORK TO GITHUB AFTER YOU COMPLETE EVERY LEVEL - THAT WAY, YOU'LL HAVE BACKUPS OF YOUR WORK!!!**
 
+## Additional Perks Availalbe
 
+If you're in need of some Perks, there are [opportunities in this assignment](perk-opportunities.md),just like there were in the last one.
 
 
