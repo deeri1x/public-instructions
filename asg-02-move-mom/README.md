@@ -54,22 +54,22 @@ Finally, you will find this assignment requires:
 Here are my suggestions. These are not the only way to get this assignment done successfully. I still think they work pretty well, though:
 
 1. First, skim through these instructions. Just like in the first assignment. 
-2. Since you want to evaluate different possible moves, you're going to need to know the rules. I'm assuming you had already read through them for the first assignment, but if not, you'll want to do so for this one (if you want to get above a C level).
-3. Next, watch [this video](https://youtu.be/8oUPc_GZAJ0) demoing a working B-level version of this assignment and also [this video](https://youtu.be/9gIEfElbiAs) demoing a working A-level version. That way, you'll have a clear picture in your mind what your A and B level destinations are.
-4. Take a look at [the rubric](rubric.md) so you know how marks are assigned. Notice how the rubric forces you to progress through the different test levels, from F all the way up to A+.
-5. (Optional) If you're working on a team, you might want to start openly talking about such things as:
+1. Next, watch [this video](https://youtu.be/8oUPc_GZAJ0) demoing a working B-level version of this assignment and also [this video](https://youtu.be/9gIEfElbiAs) demoing a working A-level version. That way, you'll have a clear picture in your mind what your A and B level destinations are.
+1. Take a look at [the rubric](rubric.md) so you know how marks are assigned. Notice how the rubric forces you to progress through the different test levels, from F+ all the way up to A+, just like in the first assignment.
+1. (Optional) If you're working on a team, you might want to start openly talking about such things as:
    1. what grade are you shooting for? Be honest and open with yourselves - not everyone's shooting for the A...and that's fine.
    2. how will you divvy up the work?
    3. what's your pace? 
    4. how will your team share code?
-6. Finally, get to work! Start at the F level requirements in the overview section that follows, fulfill them, and keep moving up the grade scales!
+1. (Optional) If you're shooting for an A, then ince you want to evaluate different possible moves, you're going to need to know the rules. I'm assuming you had already read through them for the first assignment, but if not, you'll want to do so for this one.
+1. Finally, get to work! Start at the F+ level requirements in the overview section that follows, fulfill them, and keep moving up the grade scales!
 
 ## Overviews of Each Level
 
 > _Note:_  
 > _You don't have to concern yourselves with PMD/Checkstyle issues until you get to the B level and above._
 
-1. [F level](f-level.md)
+1. [F+ level](f-plus-level.md)
 1. [D Level](d-level.md)
 1. [D+ Level](d-plus-level.md)
 1. [C- Level](c-minus-level.md)

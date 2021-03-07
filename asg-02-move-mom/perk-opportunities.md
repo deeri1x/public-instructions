@@ -6,5 +6,6 @@ Deadlines are by end of day (11:59 PM) on the given days.
 
 If you:
 
+- complete the F+ level on or before Mar 12: **1 Perk**
 - complete the D+ level on or before Mar 15: **+2 Perks**
 - complete the C+ level on or before Mar 19: **+2 Perks**
