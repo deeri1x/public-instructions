@@ -2,7 +2,7 @@
 
 _(aka Hello? Is there anybody in there?)_
 
-**Accept this project by going here:** 
+**Accept this project by going here:** https://classroom.github.com/a/ClqN4koU
 
 ## Preamble
 
