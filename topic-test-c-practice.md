@@ -14,7 +14,7 @@ This is a **practice** test, meant to see how well you've mastered material lear
 
 This practice test is a _little_ harder (IMO) than the real deal, so will likely take you a little longer. This is on purpose.
 
-Try not to look at the [solution video](xx) before giving this practice test your best effort. *Trying and stumbling is infinitely more effective than passively watching someone else do something **you** should be doing.*
+Try not to look at the [solution video](https://youtu.be/C2jDkaTHDaE) before giving this practice test your best effort. *Trying and stumbling is infinitely more effective than passively watching someone else do something **you** should be doing.*
 
 If you get stuck on something, make note of it and get better at it before the real test!
 
