@@ -61,7 +61,7 @@ Here are my suggestions. These are not the only way to get this assignment done 
    2. how will you divvy up the work?
    3. what's your pace? 
    4. how will your team share code?
-1. (Optional) If you're shooting for an A, then ince you want to evaluate different possible moves, you're going to need to know the rules. I'm assuming you had already read through them for the first assignment, but if not, you'll want to do so for this one.
+1. (Optional) If you're shooting for an A, then since you want to evaluate different possible moves, you're going to need to know the rules. I'm assuming you had already read through them for the first assignment, but if not, you'll want to do so for this one.
 1. Finally, get to work! Start at the F+ level requirements in the overview section that follows, fulfill them, and keep moving up the grade scales!
 
 ## Overviews of Each Level
