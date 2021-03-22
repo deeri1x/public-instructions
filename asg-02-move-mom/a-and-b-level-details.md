@@ -33,3 +33,7 @@ My only request is that you submit something that compiles - I need to have some
 You might be wondering if you need to have a B solution done as well. 
 
 The answer is "no" - assuming you've got even a partially-working A-level solution done, you will have demonstrated that you are able to use your TreeMap to find results of pulls. 
+
+## Do I _have_ to do an Introduction? Can't I just submit the assignment?
+
+I'd like to touch base, so if you want to get an A or B, please meet with me.
