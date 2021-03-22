@@ -78,6 +78,8 @@ Here are my suggestions. These are not the only way to get this assignment done 
 
 > Once you get past the C's, if you want to get into the B's or A's, you will have to **demonstrate** your working application to JP. This will require that you arrange to have a brief (10-15 minute) Google Meet to do the demonstration.
 
+Further details about these demos (which I've now re-branded as "introductions"), and other things A and B related, can be found at [a-and-b-level-details](a-and-b-level-details.md)
+
 > Also at this level, if you don't like the code that's been provided to you by JP - change it! No hard feelings! (I've made some questionable choices - some on purpose, some not - and you're free to address them if you wish, or live with them if you don't).
 
 1. [B Level](b-level.md)
