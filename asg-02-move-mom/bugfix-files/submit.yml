@@ -73,7 +73,7 @@ jobs:
         if: ${{ always() }}
         run: |
           wget "https://github.com/checkstyle/checkstyle/releases/download/checkstyle-8.35/checkstyle-8.35-all.jar" -P /tmp
-          java -Dconfig_loc="config/checkstyle" -jar /tmp/checkstyle-8.35-all.jar -c config/checkstyle/1501-checks.xml src/main/*.java -f xml -o results/checkstyle-results.xml
+          java -Dconfig_loc="config/checkstyle" -jar /tmp/checkstyle-8.35-all.jar -c config/checkstyle/1501-checks.xml src/main/ -f xml -o results/checkstyle-results.xml
 
       - name: Generate human-readable Checkstyle report
         if: ${{ always() }}
