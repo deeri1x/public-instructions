@@ -2,6 +2,17 @@
 
 Bugs & changes here!
 
+## 2021-03-24
+
+### CHANGE
+
+I forgot to add explicit tests of the behaviour of the BSTs when they use the constructor that takes in a Comparator! (I _implicity_ test that in some of the Map tests...but that's not helping anybody, is it?)
+
+Please add [this additional test](bugfix-files/MySimpleBst_Inorder_Iterator_With_Comparator_Tests.java) to your Eclipse project's `test.c.minus.level` package.
+
+I am NOT adding this to the tests that are run by the submit process on GitHub - I'm providing it here for your own sanity's sake.
+
+
 ## 2021-03-14
 
 ### BUG
