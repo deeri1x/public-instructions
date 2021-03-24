@@ -87,7 +87,7 @@ Further details about these demos (which I've now re-branded as "introductions")
 
 **YOU SHOULD PUSH YOUR WORK TO GITHUB AFTER YOU COMPLETE EVERY LEVEL - THAT WAY, YOU'LL HAVE BACKUPS OF YOUR WORK!!!**
 
-## Additional Perks Availalbe
+## Additional Perks Available
 
 If you're in need of some Perks, there are [opportunities in this assignment](perk-opportunities.md), just like there were in the last one.
 
