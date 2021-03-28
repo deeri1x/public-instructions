@@ -9,7 +9,7 @@ import java.util.List;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import solution.datastructs.MySimpleBst;
+import main.datastructs.MySimpleBst;
 import test.helpers.Snit;
 
 @DisplayName("MySimpleBst Inorder Iterator With Comparator Tests")
