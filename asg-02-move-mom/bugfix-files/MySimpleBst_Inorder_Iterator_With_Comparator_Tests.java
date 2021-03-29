@@ -47,8 +47,6 @@ public class MySimpleBst_Inorder_Iterator_With_Comparator_Tests {
 
     List<Snit> snitsFromIterator = new ArrayList<>();
 
-    bst.inOrderPrinter();
-
     Iterator<Snit> iter = bst.inOrderIterator();
 
     while (iter.hasNext()) {
