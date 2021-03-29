@@ -6,7 +6,7 @@
 
 **DUE:** Apr 09 (F) by end of the day (a.k.a. 11:59PM or whenever JP gets up)
 
-**Late Policy:** no lates on this one, since you've gotta give me a 10-minute demo before winter classes end on the 13th
+**Late Policy:** no lates on this one...I gotta get these suckers marked!
 
 ## Submissions
 
