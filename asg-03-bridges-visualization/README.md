@@ -4,7 +4,7 @@
 
 **GitHub Link**: https://classroom.github.com/a/e--cjS6k
 
-**DUE:** Apr 09 (F) by end of the day (a.k.a. 11:59PM or whenever JP gets up)
+**DUE:** Apr 10 (Sa) by end of the day (a.k.a. 11:59PM or whenever JP gets up)
 
 **Late Policy:** no lates on this one...I gotta get these suckers marked!
 

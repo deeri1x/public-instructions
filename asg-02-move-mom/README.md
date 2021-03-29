@@ -4,9 +4,9 @@
 
 **GitHub Link**: https://classroom.github.com/a/_xWqW-Mb
 
-**DUE:** Apr 01 (R) by end of the day (a.k.a. 11:59PM or whenever JP gets up)
+**DUE:** Apr 10 (Sa) by end of the day (a.k.a. 11:59PM or whenever JP gets up)
 
-**Late Policy:** why, that's [in the course outline](https://github.com/MRU-CSIS-2503-202101-001/course-resources#assignments-1)
+**Late Policy:** no lates; I've gotta mark this and asg-03, too!
 
 **Submissions:** just like with drills
 
