@@ -12,7 +12,7 @@ I was originally calling these "presentations" - but that might not be the right
 
 ## The Process
 
-1. Find 15 minutes between Mar 29 (M) and Apr 01 (R) where you (and your partner, if you paired up) can meet with me - you know where my schedule is! You can choose a time during your tutorial on Apr 01 as well, as I'm using that tutorial for Intros. 
+1. Find 15 minutes between Mar 29 (M) and Apr 09 (F) where you (and your partner, if you paired up) can meet with me - you know where my schedule is! You can choose a time during your tutorial on Apr 01 as well, as I'm using that tutorial for Intros. 
   
     > _I'd suggest having a backup time (or two), just in case the slot you want doesn't work out on my end._
     
