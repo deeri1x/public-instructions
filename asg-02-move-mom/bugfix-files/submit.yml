@@ -27,7 +27,6 @@ jobs:
           echo "REPO=$repo" >> $GITHUB_ENV
           echo "NOW=$nowish" >> $GITHUB_ENV
           echo "STUDENT=$student" >> $GITHUB_ENV
-
       - name: Show env vars
         run: env
 
@@ -50,11 +49,9 @@ jobs:
           cp /tmp/defaults/cisummarizer-all.jar ./
           mkdir results
           mkdir reports
-
       - name: Compile that source code like a bandit
         run: |
           javac -d bin -cp "src/test:src/main:lib/*" src/test/c/level/*.java src/test/c/minus/level/*.java src/test/c/plus/level/*.java src/test/d/plus/level/*.java src/test/dispenser/*.java src/test/dispenserView/*.java src/test/helpers/*.java src/test/permutations/*.java src/test/potion/*.java src/main/datastructs/*.java src/main/exceptions/*.java src/main/gameparts/*.java src/main/interfaces/*.java src/main/utils/*.java src/main/views/*.java src/main/*.java 2> results/compilation-results.txt
-
       - name: Generate PMD report
         if: ${{ always() }}
         run: |
@@ -63,33 +60,27 @@ jobs:
           mv /tmp/pmd-bin-6.30.0 $HOME/pmd
           chmod +x $HOME/pmd/bin/run.sh
           $HOME/pmd/bin/run.sh pmd -d ./src/main -R config/pmd/comp1501-pmd-rules.xml -f xml -r results/pmd-results.xml
-
       - name: Generate human-readable PMD report
         if: ${{ always() }}
         run: |
           $HOME/pmd/bin/run.sh pmd -d ./src/main -R config/pmd/comp1501-pmd-rules.xml -f text 1> results/pretty-pmd-results.txt
-
       - name: Generate Checkstyle report
         if: ${{ always() }}
         run: |
           wget "https://github.com/checkstyle/checkstyle/releases/download/checkstyle-8.35/checkstyle-8.35-all.jar" -P /tmp
           java -Dconfig_loc="config/checkstyle" -jar /tmp/checkstyle-8.35-all.jar -c config/checkstyle/1501-checks.xml src/main/ -f xml -o results/checkstyle-results.xml
-
       - name: Generate human-readable Checkstyle report
         if: ${{ always() }}
         run: |
           java -Dconfig_loc="config/checkstyle" -jar /tmp/checkstyle-8.35-all.jar -c config/checkstyle/1501-checks.xml src/main/*.java 1> results/pretty-checkstyle-report.txt
-
       - name: Generate test report
         if: ${{ always() }}
         run: |
           java -jar lib/junit-platform-console-standalone-1.7.0.jar --class-path "bin:lib/assertj-core-3.18.1.jar:lib/google-collect-1.0.jar:lib/guava-30.1-jre.jar:lib/jansi-2.1.0.jar:lib/JColor-5.0.1.jar:lib/jline-3.16.0.jar:lib/jline-3.19.0.jar:lib/piccolo2d-core-3.0.jar:lib/piccolo2d-extras-3.0.jar:lib/progressbar-0.9.0.jar:lib/system-lambda-1.1.1.jar" --disable-banner --scan-class-path --reports-dir=results
-
       - name: Generate human-readable test report
         if: ${{ always() }}
         run: |
           java -jar lib/junit-platform-console-standalone-1.7.0.jar --class-path "bin:lib/assertj-core-3.18.1.jar:lib/google-collect-1.0.jar:lib/guava-30.1-jre.jar:lib/jansi-2.1.0.jar:lib/JColor-5.0.1.jar:lib/jline-3.16.0.jar:lib/jline-3.19.0.jar:lib/piccolo2d-core-3.0.jar:lib/piccolo2d-extras-3.0.jar:lib/progressbar-0.9.0.jar:lib/system-lambda-1.1.1.jar" --disable-banner --disable-ansi-colors --scan-class-path --details=tree 1> results/pretty-test-results.txt
-
       - name: Alter default junit reports
         if: ${{ always() }}
         run: |
@@ -97,12 +88,10 @@ jobs:
           mv ./results/TEST-junit-jupiter.xml ./results/junit-results.xml
           rm -f ./results/TEST-junit-vintage.xml
           ls -al ./results
-
       - name: Generate summary report
         if: ${{ always() }}
         run: |
           java -jar ./cisummarizer-all.jar $GITHUB_REPOSITORY
-
       - name: Save the results as an artifact
         if: ${{ always() }}
         uses: actions/upload-artifact@v2
@@ -111,7 +100,6 @@ jobs:
           path: |
             reports/
             results/
-
       - name: Create an issue from the result
         if: ${{ always() }}
         uses: peter-evans/create-issue-from-file@v2.3.2
